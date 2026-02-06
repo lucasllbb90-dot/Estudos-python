@@ -14,4 +14,4 @@ Este repositório foi criado para documentar a minha jornada na programação, i
 * VS Code (Notebook)
 
 ## Sobre mim
-Sou um entusiasta de tecnologia focado em lógica e eficiência. Acredito na "preguiça inteligente": automatizar o que é repetitivo para focar no que é importante.
+Sou um entusiasta de tecnologia focado em lógica e eficiência. Quero automatizar o que é repetitivo para focar no que é importante.
